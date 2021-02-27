@@ -1,4 +1,4 @@
-#### Live Demo <a href="https://portfolio.ajay-singh-au.github.io">Here</a>
+#### Live Demo <a href="https://ajay-singh-au.github.io/portfolio/">Here</a>
 <br/>
 
 #### Screen Shot
